@@ -2,9 +2,11 @@ Note: This project is still a work in progress, and some changes might occur.
 
 The keyboard you see here is inspired by the Grumpy model, particularly its format.
 Big thanks for the inspiration, and a special shout-out to our colleague @il for helping refine the ideas.
+![IMG_3270](https://github.com/user-attachments/assets/1c32ed87-6bbe-406f-961d-608f73bf91c3)
 ![IMG_3341](https://github.com/user-attachments/assets/779e316e-25b1-4396-b90e-6f46da0f0beb)
 ![IMG_3327](https://github.com/user-attachments/assets/221e0ff4-ec69-466a-887f-4d846e67701d)
-![IMG_3290](https://github.com/user-attachments/assets/ad725a05-eb42-4156-9f55-3d3b5c6b7d8c)
+![IMG_3360](https://github.com/user-attachments/assets/903e1564-730c-4637-8d15-d3fb33133e90)
+
 
 
 Brief Specifications:
