@@ -60,6 +60,6 @@ Big thanks for the inspiration, and a special shout-out to our colleague @il for
 📌 **Approximately 400 grams of filament** will be needed for the entire casing, including the plate.  
 
 Thank you! 😊
-https://www.trkeyboards.com/co
+https://www.trkeyboards.com/
 
 
